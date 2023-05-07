@@ -9,4 +9,6 @@ Assignment 3 – Tip Calculator Console App
 
 Assignment 4 – Mile Redeemer Console App 
 
+Assignment 5 – Payroll System Test
+
 Assignment 6 - MIle Redemption App
